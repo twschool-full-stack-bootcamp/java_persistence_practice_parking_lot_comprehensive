@@ -12,8 +12,8 @@
 
 ### Stores
 
-*Story 1*
---------
+#### Story 1
+
 As a manager, I want to create and list all parking boys. So that I can find someone to park cars for the customer.
 
 AC1. I should be able to create parking boy to the system. The parking boy contains the following information:
@@ -21,8 +21,8 @@ employeeID: The employee id is a non-empty String representing the unique ID for
 
 AC2. I should be able to list ALL the parking boys in the system. Each parking boy should include his employeeID.
 
-*Story 2*
---------
+#### Story 2
+
 As a manager, I want to create and list all parking lots so that that parking boys can park cars into them.
 
 AC1. I should be able to create a parking lot in the system. The parking lot contains the following information:
@@ -31,8 +31,8 @@ capacity: The capacity of the parking lot. It is an integer from 1 - 100.
 
 AC2. I should be able to list ALL parking lots in the system. Each parking lot should contain its parkingLotID, availablePositionCount and capacity of each parking lot.
 
-*Story 3*
---------
+#### Story 3
+
 As a manager, I would like to associate parking lots to parking boys so that the parking boy can park cars in parking lots.
 
 AC1. I should be able to associate one or more parking lots to a parking boy. Note that each parking lot can only be associated with one parking boy.
