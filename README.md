@@ -6,7 +6,7 @@
 - Design your E-R diagram and put it to root folder `E-R.jpg`
 - Complement the stories by following 3 layers architecture (controller-service-repository) 
 - Write API testing via MockMVC
-- Write `Repository` via mybatis testing starter
+- Write `Repository` via mybatis testing starter (There is an example for repository, feel free to replace them with your testing)
 - Write other unit testing if needed
 - You commit message MUST follow the semantic message rule
 
